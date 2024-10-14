@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: MauvaiseLangue
+Version: 1.0.8
+Summary: A Python module to scrape French insults from Wiktionary
+Author: john waia
+Author-email: johnwaia25@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Requires-Dist: requests
+Requires-Dist: beautifulsoup4

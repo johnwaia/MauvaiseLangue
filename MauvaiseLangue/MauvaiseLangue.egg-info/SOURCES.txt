@@ -1,0 +1,8 @@
+setup.py
+MauvaiseLangue/__init__.py
+MauvaiseLangue/scraper.py
+MauvaiseLangue.egg-info/PKG-INFO
+MauvaiseLangue.egg-info/SOURCES.txt
+MauvaiseLangue.egg-info/dependency_links.txt
+MauvaiseLangue.egg-info/requires.txt
+MauvaiseLangue.egg-info/top_level.txt
